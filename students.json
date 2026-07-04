@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "dhyan",
+        "course": "BCA (AI & ML)",
+        "semester": 5
+    },
+    {
+        "id": 2,
+        "name": "Priyanka",
+        "course": "BCA",
+        "semester": 3
+    },
+    {
+        "id": 3,
+        "name": "aditiya",
+        "course": "BBA",
+        "semester": 4
+    },
+    {
+        "id": 4,
+        "name": "aryan",
+        "course": "MBA",
+        "semester": 1
+    },
+    {
+        "id": 5,
+        "name": "anirudh",
+        "course": "MBA",
+        "semester": 2
+    },
+    {
+        "id": 6,
+        "name": "reshma",
+        "course": "MCA",
+        "semester": 6
+    }
+]
